@@ -1,9 +1,0 @@
-## Interface: 120000
-## Title: GoomiUI
-## Notes: Modular addon framework for custom UI elements
-## Author: Goomi
-## Version: 1.0.0
-## SavedVariables: GoomiUIDB
-
-core.lua
-ui.lua
