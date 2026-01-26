@@ -1,3 +1,7 @@
 package-as: GoomiUI
+
+toc:
+  - GoomiUI/GoomiUI.toc
+
 curseforge:
   id: 1443927
