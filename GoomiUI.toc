@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120000, 120001
 ## Title: GoomiUI
 ## Notes: Modular addon framework for custom UI elements
 ## Author: Goomi
