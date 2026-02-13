@@ -7,5 +7,6 @@
 ## X-Category: GoomiUI
 ## SavedVariables: GoomiUIDB
 
+Libs\LibCustomGlow-1.0\LibCustomGlow-1.0.lua
 core.lua
 ui.lua
