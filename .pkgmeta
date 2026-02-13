@@ -5,8 +5,8 @@ curseforge:
 
 externals:
   Libs/LibCustomGlow-1.0:
-    url: https://repos.curseforge.com/wow/libcustomglow/trunk
-    tag: latest
+    url: https://github.com/Stanzilla/LibCustomGlow.git
+
 
 ignore:
   - README.md
