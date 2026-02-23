@@ -4,7 +4,7 @@
 ## Author: Goomi
 ## Version: 1.1.1
 ## X-Curse-Project-ID: 1443927
-## X-Category: GoomiUI
+## Category: GoomiUI
 ## OptionalDeps: Masque, LibCustomGlow-1.0
 ## SavedVariables: GoomiUIDB
 
