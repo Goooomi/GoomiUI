@@ -2,7 +2,7 @@
 ## Title: GoomiUI
 ## Notes: Modular addon framework for custom UI elements
 ## Author: Goomi
-## Version: 1.1.2
+## Version: 1.1.3
 ## X-Curse-Project-ID: 1443927
 ## Category: Goomi|cFF3AC2D6U|r|cFFEE2D40I|r
 ## IconTexture: Interface\AddOns\GoomiUI\media\icon
