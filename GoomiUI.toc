@@ -4,7 +4,7 @@
 ## Author: Goomi
 ## Version: 1.1.1
 ## X-Curse-Project-ID: 1443927
-## Category: GoomiUI
+## Category: Goomi|cFF3AC2D6U|r|cFFEE2D40I|r
 ## IconTexture: Interface\AddOns\GoomiUI\media\icon
 ## OptionalDeps: Masque, LibCustomGlow-1.0
 ## SavedVariables: GoomiUIDB
